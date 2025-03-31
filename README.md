@@ -1,4 +1,5 @@
 # MATLAB Algorytm Gilla-Möllera
+[Zobacz Raport](https://github.com/mateuszdrozd/MATLAB_Algorithm_Gilla-Mollera/blob/main/Projekt/Pokaz.pdf)
 # Opis projektu
 Niniejszy projekt zawiera implementację algorytmu Gilla-Möllera w środowisku MATLAB. Celem projektu było nie tylko przedstawienie działania tego algorytmu, ale także porównanie jego efektywności i dokładności z innymi popularnymi metodami numerycznymi.
 
